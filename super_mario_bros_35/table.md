@@ -11,7 +11,7 @@
 |Nanolish |
 | Ladies and gentleman. Uh waiting 1 hours uh wait start mario brothers. |
 |JP |
-| れでぃ〜すあんどじぇんとるめんとぉ~ マリオブラザーズを始めるために一時間待ってくれてありがとう|
+| れでぃ〜すあんどじぇんとるめんとぉ~. マリオブラザーズを始めるために一時間待ってくれてありがとなのら.|
 |EN|
 |Ladies and gentleman ​thank you for waiting an hour for mario to start|
 
@@ -31,7 +31,7 @@
 |JP |
 | ルーナの英語は Nanolish なのら. Nanolish はベストオブイングリッシュなのら|
 |EN|
-| Luna's English is Nanolish. Nanolish is best of English.|
+| Luna's English is Nanolish. Nanolish is the best of English.|
 
 | Time stamp: 2:27 -> 3:17 |
 |---	|
