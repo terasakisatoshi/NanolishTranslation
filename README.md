@@ -3,6 +3,7 @@
 # About this repository 
 
 - This repository aims to translate `Nanolish` into English/Japanese.
+- You can refer our translation table in your clip under the terms of the [license](LICENSE).
 
 # What is `Nanolish` ?
 
