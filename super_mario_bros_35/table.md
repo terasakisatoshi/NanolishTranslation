@@ -222,7 +222,7 @@
 | Note　|
 |疎か(おろそか:orosoka) means negate| 
 
-| Time stamp: 28:09 -> ２９:49 |
+| Time stamp: 28:09 -> 29:49 |
 |---	|
 |Nanolish |
 |Luna playing experience, playing experience this game oh yes. Mario mario let's go together be together be together ? with together. Oh yes, I jump I jump jump (several times LoL). Enemy jump jump jump attack attack bonus attack bonus, yes. OMG fire attack yes. Item please item please item get count up oh yeah bang bang (several times) jump jump I jump oh yes bang bang bang OMG, fire attack fire attack oh go straight enemy of many many mushroom and turtle mushroom many many mushroom I like mushroom. Mushroom uh ... delicious Delicious and yummy yummy. He he he. (proceed to the next stage)|
@@ -244,10 +244,10 @@
 |Note|
 |良い(よい: yoi) means good. 余裕(よゆう: yoyuu) means There's plenty of time to spare in this context.|
 
-| Time stamp: xx:xx -> yy:yy |
+| Time stamp: 32:51 -> 34:12 |
 |---	|
 |Nanolish |
-||
+| Many fav uh best best I can do it. He he he. I can do it yeees. I uh ... English uh... 目標(using Google translation) I target 3 uh 3 uh ... (keyboard input) I wish 3rd place. Ah top 3 yes yes. I with top 3. He he he. I'm fighting. Have a fun, have a fun please support. Let's go.| 
 |JP|
 | |
 |EN|
@@ -255,10 +255,10 @@
 |Note|
 ||
 
-| Time stamp: xx:xx -> yy:yy |
+| Time stamp: 34:13 -> 35:26 |
 |---	|
 |Nanolish |
-||
+| Big bigger mario let's go experience item get. This this controller? Oh enemy enemy lot of uh ... many many no many no many no many enemy jump jump jump jump oh coin 5 500 500 coin OMG. Unbelievable unbelievable unbelievable yes. Why why unbelievable coin ? feet feet sweet sweeet flowers not not sweat flower?|
 |JP|
 | |
 |EN|
@@ -266,10 +266,10 @@
 |Note|
 ||
 
-| Time stamp: xx:xx -> yy:yy |
+| Time stamp: 35:27 -> 36:36 |
 |---	|
 |Nanolish |
-||
+| I'm jump jump enemy jump attack enemy time time plus count yes. OMG coin (several times) yes. Because by the way, however, good luck. Oh no. I'm fine thank you, how are you? He he he. Oh yes, yes OK OK OK. Enemy attack ET enemy what. WHAAAAT (screaming). Let's go oh yes. I can do it. You can do it love and peace. World of Luna love and peace. Oh yes. |
 |JP|
 | |
 |EN|
@@ -277,10 +277,32 @@
 |Note|
 || 
 
-| Time stamp: xx:xx -> yy:yy |
+| Time stamp: 36:37 -> 38:36 |
 |---	|
 |Nanolish |
-||
+| Oh count 25 little jump jump jump oh yes. jump ダンダンダンピャンポンピンパンプン（sound effect）. OMG this wario? not Kuppa. Kyaaaaa, Kya, Kya(screaming in Japanese). Oh random, random. Nice Pow, nice pow. Oh please item. please item. Oh 良し(meaning good)！ Ah I'm legend of soldier. Legend of Ahhh(screaming) soldier soldier oh yes. coin count 49 49 49 OMG count count please coin hug me. 5 minute ? OMG Item please, random flower. OK yes yes. Oh come on enemy I jump plus plus 六 uh enemy attack attack attack yes.|
+|JP|
+| |
+|EN|
+| |
+|Note|
+|六(ろく: roku) means six(6)|
+
+| Time stamp: 38:37 -> 40:07 |
+|---	|
+|Nanolish |
+| Oh this course is Kuppa castle. Very well, very diffult course. May die(several times). Oh no. O no OMG. Fire fire fire 回転, uh fire 回転. Uh... what's, what's time? Let's go? What's time underground. OMG, uh... what's time what time what time. Oh OK OK let's go. Oh Kuppa attack looking for Kuppa attack. Kuppa no Kuppa no. No Kuppa Kuppa no Kuppa no. Ahhh(screaming) お前... Oh be careful Oh yes. I'm legend. Oh, yes.|
+|JP|
+| |
+|EN|
+| |
+|Note|
+| 回転(かいてん: kaiten) means rotation. お前(おまえ:omae) means "you... son of a ..." in this context. |
+
+| Time stamp: 40:08 -> 42:03 |
+|---	|
+|Nanolish |
+| I'm winner, I'm winner, I'm Kuppa winner, Kuppa winner. I'm legend of legend. Galaxy legend. Um, I'm tired I'm tires. You lost. Hurry up, you lost. I'm ranking 8. Early up, come on No.1. You lost come on. OMG. What's the matter again. Uh... Eh... Ahhhh(screaming) Oh. Ah flower get. Enemy many many many enemy count coin. Ah. I'm shuffle shout, very tire. Yeah, star please oh yes let's go counter counter oh yes. OK OK. Enemy very strong early up. Nah, nah, nah, nah, nah, nah. No. Ok. Let's go.
 |JP|
 | |
 |EN|
@@ -288,10 +310,23 @@
 |Note|
 ||
 
-| Time stamp: xx:xx -> yy:yy |
+| Time stamp: 42:04 -> 44:01 |
 |---	|
 |Nanolish |
-||
+| I'm six. Already? Yet 6. I'm tired. OMG. Kuppa next again. Attack 届かない.... Oh no. よし． I'm winner. I'm winner. Be careful, its heavy. Six yet, already yet 6?. I’m tire. おい. おい. Enemy 邪魔. Enemy. Uh... OMG. 6? Hurry up. A ... Be careful It’s heavy. OK oK yes yes. OK OK. Ranking change no change ranking no change what's the matter. Uh ... change please. Member change please. Member change please. おい~.|
+|JP|
+| |
+|EN|
+| |
+|Note|
+|"おい. おい. Enemy 邪魔" means Hey. Hey, get out of the way. "
+おい〜" means hey.
+|
+
+| Time stamp: 42:04 -> 44:01 |
+|---	|
+|Nanolish |
+| |
 |JP|
 | |
 |EN|
@@ -299,10 +334,10 @@
 |Note|
 ||
 
-| Time stamp: xx:xx -> yy:yy |
+| Time stamp: 44:03 -> 45:20 |
 |---	|
 |Nanolish |
-||
+| Five five? I’m five. Oh yet 5. Top 3 yet ? Oh no. No no no no. OMG. Kuppa next kuppa. May die (several times). I'm support please. Help me. Help me. Star please oh yes star get. Mushroom attack. Oh Kuppa many kuppa what's the matter? Top3？ Top3 ? I’m top3 ? Oh everyone everyone looking watch uh... this play this play um ... I'm top 3?|
 |JP|
 | |
 |EN|
@@ -310,10 +345,102 @@
 |Note|
 ||
 
-| Time stamp: xx:xx -> yy:yy |
+| Time stamp: 45:21 -> 48:30 |
 |---	|
 |Nanolish |
+| Oh, top2, top2 , oh yes top2 . Lost ? you can do it. Ah ?. I can do it. Ah ... noooo. I can do it. Ah. I can doooo iiiiiit. I can do it(several times)． うわあああああ(screaming in Japanese). Many of many of enemy come on. Oh. Shut up. Do not touch me(several times). Enemy no. No no enemy. Please please I'm winner. Please I'm winner. Come on. I true No.1．Noooooh enemy no. No. Count please. count. Ahhhh (Game over) OMG. Noooooo. I'm No.1. I'm no.1. (sob sob) OMG. Why ? Enemy stronger. Not use fire? Oh no? Luna is No.1 ? Oh thank you everyone super chat thank you. Oh no No.1 please. PLEASE NO.1. |
+|JP|
+| |
+|EN|
+| |
+|Note|
 ||
+
+| Time stamp: 48:31 -> 49:06 |
+|---	|
+|Nanolish |
+| Enemy, uh, well well. 敵が強すぎる(She types to use Google translation)． The enemy is too strong. Enem
+|y strong, very very strong OMG, unbelievable. Can not forgive do not give 3. No, no use グーグル翻訳.
+|JP|
+| |
+|EN|
+| |
+|Note|
+|敵が強すぎる(てきがつよすぎる: tekigatuyosugiru) means "The enemy is too strong".
+グーグル翻訳 （グーグルほんやく: google honyaku） means [Google tranlation](https://translate.google.co.jp/?hl=ja).
+|
+
+| Time stamp: 49:21 -> 50:04 |
+|---	|
+|Nanolish |
+| 一位, I’m 一位. Please oh 一位. Next callange. Eh... 挑戦していい？ (using Google translation) Next I can challenge? Can I challenge you ? Can I challenge you? Oh yes. Not google 翻訳. No no. I can English. I speak English uh many many English uh is Nanolish very oh yes?|
+|JP|
+| |
+|EN|
+| |
+|Note|
+|挑戦していい？(ちょうせんしていい: tyousen siteii?） means Can I callenge again? in this context.|
+
+| Time stamp: 50:13 -> ５１:26 |
+|---	|
+|Nanolish |
+| Oh, thank you super chat. No.1 Oh No.1 name player name "V". Get coin 2000?. OMG. This player is OMG. Oh noooo. Ah, I'm rule(may be lose), V zone good. Very very stronger No.1. これは勝てない（using Google translation) This can’t be OMG. Next next challage yes?|
+|JP|
+| |
+|EN|
+| |
+|Note|
+|これは勝てない(これはかてない: koreha katenai) means I can't win against "V".
+|
+
+| Time stamp: 51:33 -> 52:07 |
+|---	|
+|Nanolish |
+| Oh new stage, oh yes watching new stage? I'm 1-1 course please. Let's go. I'm many many tire. I'm shout tire. I'm experience tire. I can do it. I wish with do my best oh yes.|
+|JP|
+| 僕も疲れたよ・・・|
+|EN|
+| Me also tired tranlation of Nanolish...|
+|Note|
+||
+
+| Time stamp: ５2:１２ -> 44:01 |
+|---	|
+|Nanolish |
+| Let's go. |
+|JP|
+| |
+|EN|
+| |
+|Note|
+||
+
+| Time stamp: 42:04 -> 44:01 |
+|---	|
+|Nanolish |
+| |
+|JP|
+| |
+|EN|
+| |
+|Note|
+||
+
+| Time stamp: 42:04 -> 44:01 |
+|---	|
+|Nanolish |
+| |
+|JP|
+| |
+|EN|
+| |
+|Note|
+||
+
+| Time stamp: 42:04 -> 44:01 |
+|---	|
+|Nanolish |
+| |
 |JP|
 | |
 |EN|
