@@ -10,7 +10,7 @@
 |---	|
 |Nanolish |
 | Ladies and gentleman. Uh waiting 1 hours uh wait start mario brothers. |
-|JP |
+|JP|
 | れでぃ〜すあんどじぇんとるめんとぉ~. マリオブラザーズを始めるために一時間待ってくれてありがとなのら.|
 |EN|
 |Ladies and gentleman ​thank you for waiting an hour for mario to start|
@@ -19,7 +19,7 @@
 |---	|
 |Nanolish |
 | Mario brothers 35 game uh English only stream start nanora. Are you O.K. ?|
-|JP |
+|JP|
 | マリオブラザーズ 35 というゲームを英語縛りで配信するなのら．いいかな？|
 |EN|
 | I'll start Super mario bros. 35 stream in English, Are you OK!|
@@ -28,7 +28,7 @@
 |---	|
 |Nanolish |
 | Luna English is Nanolish. Nanolish is best of English.|
-|JP |
+|JP|
 | ルーナの英語は Nanolish なのら. Nanolish はベストオブイングリッシュなのら|
 |EN|
 | Luna's English is Nanolish. Nanolish is the best of English.|
@@ -37,7 +37,7 @@
 |---	|
 |Nanolish |
 | Uh, ah, Just a moment (just a moment ?) Uh, playing let's go. Have a fun! Please support uh OK ? Uh , Wait just a moment, just a moment, game music game music uh bala... balance OK ? He he he.|
-|JP |
+|JP|
 | ちょっと待つのら. ゲーム始めるのら. みんなルーナの配信たのしむのら. 助けてなのら OK? . ちょっとまつのら，ゲームの音量は大丈夫なのら？ えへへ.|
 |EN|
 | Just a moment. OK let's get started this game. Have a fun! Please support OK ?. Is the volume of the game okay?|
@@ -46,7 +46,7 @@
 |---	|
 |Nanolish |
 | Uh ... Luna english study a little a little a little by the way no no watch TV English watch English watch ? English watch uh... yes. OK ? Are you OK ? Nanolish OK? Watch watch TV watch TV Enlish lesson watch TV english watch TV eh ... ? |
-|JP |
+|JP|
 | ルーナは英語をテレビをみることで少し練習しました．いいですか？ Nanolish はわかりますか？|
 |EN|
 | I studied English by watching a TV of English lesson. Does my English/Nanolish make sense?｜
@@ -55,7 +55,7 @@
 |---	|
 |Nanolish |
 | But, uh ? because native English. Just a moment (just a moment ?) let's go. Let's go playing game. Maintainance end maintainance end and Luna rank 21 practice mario game. Oh yes. Let's go play.|
-|JP |
+|JP|
 | (翻訳不能), ゲームを始めるのらー． ゲームのメンテナンスが終わってそしてルーナのランクは２１です. ゲームを始めましょう. |
 |EN|
 | (???), Let's play game. Maintenance seems to have ended and my player rank is 21. Let's get started.|
@@ -64,7 +64,7 @@
 |---	|
 |Nanolish |
 | Wish course wish course select select select select selecting uh... Luna 3 course select can can can select 3 course 1-1 1-1 1-1 ... Let's go, matching now.|
-|JP |
+|JP|
 | ルーナは.「希望するコースを選択して下さい.」 を読んでるのら. ルーナは３つのコースを選択できるのら． 1-1 を選択するのらー．始めるのらー， マッチングが始まった．|
 |EN|
 | I'm reading “which course should I select?" I have 3 courses to choose from. I’ll choose 1-1, let’s go, matching started.|
@@ -73,7 +73,7 @@
 |---	|
 |Nanolish |
 | I'm able to able to I can I can I able to mario game B, B-jump B-button B-button  B-button jump OK ? Ahhhhhhh(screaming), Oh mushroom mushroom mushroom go away OMG, OMG mushroom mushroom I like mushroom I like I like mushroom I like mushroom I do not like mushroom this this mushroom ? mushroom ? mushrooooom!!!|
-|JP |
+|JP|
 | B ボタンでマリオできるのら, あーー（叫び声), きのこ（マリオを大きくさせる）好き〜， このきのこ（敵のクリボー） 嫌い, え？これ本当にきのこ？ あああ〜〜〜|
 |EN|
 | I can jump with B-button. Ahhhhhh(screaming), Oh I like mushroom(which makes Mario become big), I hate mushroom(for enemy [Goomba](https://en.wikipedia.org/wiki/Goomba))， wait is this mushroom? Mushrooooom!!!(screaming)|
@@ -82,7 +82,7 @@
 |---	|
 |Nanolish |
 | Oh I'm big, I'm big, big mario jump jump OMG time over time over dangerous dangerous time over uh... be careful be careful jumping enemy jumping mushroom enemy jumping えーと えーと うーん うーんと push ? mushroom push yes go.|
-|JP |
+|JP|
 | きのこで大きくなった, マリオでジャンプするのらー. オーマイゴット, 時間切れになる危険だ気をつけないと， 
 えーとえーとうーんうーんと（これ英語でなんていうのら？）． ジャンプしてジャンプしてそして敵を押し倒すのらー. 次のステージにレッツゴー.|
 |EN|
@@ -92,7 +92,7 @@
 |---	|
 |Nanolish |
 | Next sta... OMG time up time up OMG OMG OMG ? Uh... 11 12 14 14 time limit OMG coin get coin get ブン バンバン(sound effect speaking in Japanese) folower attack flower attack OMG time time up おわぁ〜〜（screaming in Japanese） time up (screaming) OMG ah ah time up OMG． Oh no oh no ahhh time time please Oh ... （Game over）|
-|JP |
+|JP|
 | パニック状態でプレイ |
 |EN|
 | She's panicked and upset. |
@@ -101,7 +101,7 @@
 |---	|
 |Nanolish |
 | OMG have a fun ? have a fun ? My love stream have a fun ? I'll do my best I can do it a next let's go. OK, OK I uh... I Mario Mario very well I playing Mario very well.|
-|JP |
+|JP|
 | ルーナのライブ配信楽しんでるのら？ 頑張るのら〜, ルーナのマリオの操作はうまいのらー.|
 |EN|
 | Do you enjoy my lovely streaming? I'll do my best. I play Mario very well.|
@@ -110,7 +110,7 @@
 |---	|
 |Nanolish |
 | Mushroom big flower eh... flower item flower item yes yes oh fire fire i'm I'm oh star let's go come on come on enemy come on oh yes yes enemy enemy star duck star duck oh yes. ヌァあああ(screaming in Japanese) OMG flower flower please flower please oh yes mushroom mushroom attack 粒々 粒々 OHG little mario OMG (Proceed to the next stage). |
-|JP |
+|JP|
 | ゲームをしている |
 |EN|
 | She is playing |
@@ -121,7 +121,7 @@
 |---	|
 |Nanolish |
 | Oh no, little mario oh no 雑魚(zako) 雑魚(zako) OHG Uh(screaming) uh ... mushroom enemy many many mushroom many many mushroom many many mushroom　many many mushroom(screaming). Oh uh... は〜い mushroom uh I'm tired I'm tired turtle turtle attack many many mushroom OMG ahhhhhh oh yes I'm strong お〜い(saying hey in Japanese) mannnnny many jump （she failed) Oh yes rank up, item get, I'm 9 yes. I'm No.1 I wish No.1 |
-|JP |
+|JP|
 | このゲームでは 9 位を獲得した |
 |EN|
 | She was 9th in this game.|
@@ -133,7 +133,7 @@
 |---	|
 |Nanolish |
 | Coin 2000 item item x-button x-button item select OK. Select select 丸. Oh no select oh やり方わからん　Eh ...? Mushroom select 丸？ 丸? not select 丸 ? Eh ??? cusor let's go select item catch OK ? this Oh I can do it I can do it OK OK OK． Mushroom item get you. go away go away go straight.|
-|JP |
+|JP|
 | ？？？(誰か翻訳してください) |
 |EN|
 | ???（Could someone explain?） |
@@ -144,27 +144,29 @@
 |---	|
 |Nanolish |
 | Big mario Big mario start item item please oh I'm first time flower ah... flower attack more than jumping attack Y Y Y OK star get I'm 無敵 I'm uh... legend I'm legend let's go a little I'm legend （proceed to the next stage.）|
-|JP |
+|JP|
 | ゲームをプレイ中|
 |EN|
 | Playing game |
-| Note |
+|Note|
 | 無敵(むてき: muteki) means invincible|
 
 | Time stamp: 14:52 -> 17:21 |
 |---	|
 |Nanolish |
-| I'm legend Oh yeah oh time up time up 1 minute a little a little time more time please time please time please please fire fire fire 2 stronger uh jump jump this game jump count 2 2 わ〜い はいはいはいはいや〜(screaming in Japanese) many mushroom many mushroom attack jumping uh jumping jumping アイヤー(screaming) oh yes yes. OK OK OK I'm let's go goal I jump jump +2 +2 count count little count + OMG Fire strong oh no I do not use Ahhhhh I lost OMG oh yeah OMG OMG Plus 2 count 六十(60) 1 minutes 1 minutes OMG jumping jumpung jumping oh yes. Oh fire stronger lets' got star star lets go I'm stronger legend come on enemy. Enemy no Noooooh (screaming) no enemy ? oh I'm stronger? You lose. (proceed to the next stage)|
-|JP |
+| I'm legend Oh yeah oh time up time up 1 minute a little a little time more time please time please time please please fire fire fire 2 stronger uh jump jump this game jump count 2 2 わ〜い はいはいはいはいや〜(screaming in Japanese) many mushroom many mushroom attack jumping uh jumping jumping アイヤー(screaming) oh yes yes. OK OK OK I'm let's go goal I jump jump +2 +2 count count little count + OMG Fire strong oh no I do not use Ahhhhh I lost OMG oh yeah OMG OMG Plus 2 count 六十 1 minutes 1 minutes OMG jumping jumpung jumping oh yes. Oh fire stronger let's got star star lets go I'm stronger legend come on enemy. Enemy no Noooooh (screaming) no enemy ? oh I'm stronger? You lose. (proceed to the next stage)|
+|JP|
 | |
 |EN|
 | |
+|Note|
+| 六十(ろくじゅう: rokuzyuu) stands for number ６０. Note that 60 seconds is equal to 1 minute in this context.|
 
 | Time stamp: １７:22 -> 18:45 |
 |---	|
 |Nanolish |
 | You lose hurry up ? Hurry up ? you lose hurry up ? 11 ? 11 ? no 11 I'm No.1. Do my best do my best. I can do. Oh count 2 minute ? oh Oh stronger ah.... eh... Enemy enemy see enemy see OMG(screaming). Ah item please OMG enemy of mushroom, enemy of mushrooom (screaming) oh no just a moment just a moment just a moment (singing?). Do not worry be careful. Item please OMG.|
-|JP |
+|JP|
 | |
 |EN|
 | |
@@ -173,45 +175,59 @@
 |---	|
 |Nanolish |
 | 全然人へらねぇ. No no no no Japanese. Stronger enemy stronger enemy. Noooo OMG. Enemy of uh... OMG ah ah ah. Ahhhhh. Help help help item no enemy many many mushroom mushroom no I like mushroom. Oh be careful Whoaaaa. Eenemy stroinger more more enemy stronger item please star please oh yes item item please Ahhhhh. I'm whole new world. OMG mushroom mushroom many many mushroom すぎ Oh no OMG. Oh this enemy what's name ? 1-1 1-1 Ahhhhh(screaming) Oh no OMG. (Game over) I'm ranking 7 up ranking. hamber bros stronger I want to drink just a moment.|
-|JP |
+|JP|
 | |
 |EN|
 | |
 | Note|
-| 全然人へらねぇ(zen zen hito heranexe:) means Other players are still alive in this context.|
+| 全然人へらねぇ(zen zen hito heranexe) means Other players are still alive in this context.|
 
-| Time stamp: x:xx -> y:yy |
+| Time stamp: 21:24 -> 22:28 |
 |---	|
 |Nanolish |
-| |
-|JP |
+| X-button item ? let's go to starts now x-button item get you ? Really ？ Oh really ? I'm first time I'm first time. Oh really let's next playing x-buttom. Oh yes. Oh next game Uh? Xbutton oh I'm experience experience game. experience game oh watch comment a little. Sorry sorry here we go okidoki.|
+|JP|
+| X ボタンでアイテムゲットできるの ？本当 ？次のゲームで実験しよう.|
+|EN|
+| Can I get an item with X-button ? Really? Let's try the next game.|
+
+| Time stamp: 22:30 -> 23:54 |
+|---	|
+|Nanolish |
+| X-button. Let's OMG! yeah OMG Oh. X-button x-button yet already yes x-button x-button ? start no x-button. Oh coin ? because coin I havn't coin ? Coin bound ? Coin coin by coin ? Star let's go. come on enemy mushroom come on. Mushroom oh yes. coin 18 19 20. Coin item, oh yes. Oh buy item when? Why ?|
+|JP|
 | |
 |EN|
 | |
 
-| Time stamp: x:xx -> y:yy |
+| Time stamp: 23:55 -> y:yy |
 |---	|
 |Nanolish |
-| |
-|JP |
-| |
+| Why ? Buy can't can't item? I can buy? I can buy ? why I can buy. OMG. Ahhhh(screaming) I want to item. Turtle ah item no no item turtle ? OMG What's the matter? many coin 64 OMG. Why? (Game over) why X-button under font? 30 coin ? 二十 20 coin. light under. 何でぇ.|
+|JP|
+| なぜアイテム買えないの? |
 |EN|
-| |
+| Why can't I buy item? |
+|Note|
+|二十(にじゅう: nizyuu) stands for twenty. 何でぇ(なんでぇ: nande-xe) means why. |
 
-| Time stamp: x:xx -> y:yy |
+| Time stamp: ２５:39 -> 28:10 |
 |---	|
 |Nanolish |
-| |
-|JP |
-| |
+| Let's go next next let's go. Uh matching enemy very stronger. Uh... 12, 13 O'clock enemy in very easy. Very easy enemy. Now enemy very stronger why? Jump jump jump jump jump. Luna lesson game uh... 12 o'clock. Experience experience I have I have star let's go lets go please time please time please. Item fire. Have a fun, have a fun have a fun. Please have a fun I'll do my best. Oh this new stage. I can coin 8 9 11 11? 11 12 OMG(screming) (Game over). English experience playing 疎か OMG lol. OMG, OMG. Uh experience English OMG playing 疎か. OMG.
+|JP|
+| 英語で配信するとプレーが疎かになる. |
 |EN|
-| |
+| Streaming the game in English will negate the play. |
+| Note　|
+|疎か(おろそか:orosoka) means negate| 
 
-| Time stamp: x:xx -> y:yy |
+| Time stamp: xx:xx -> yy:yy |
 |---	|
 |Nanolish |
-| |
-|JP |
+||
+|JP|
 | |
 |EN|
 | |
+|Note|
