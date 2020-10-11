@@ -231,16 +231,18 @@
 |EN|
 | |
 |Note|
+||
 
 | Time stamp: 29:30 -> 32:50 |
 |---	|
 |Nanolish |
-| Item get uh  ... 1 minutes 良い eh... I’m 余裕. OK OK experience experience experience coin please coin coin coin coin coin coin １２ １３ １４ 15 16 17 eighteeeeen (screaming) １９ ２０ OMG item lost item OK yes very well OK OK coin item let's get item X-button OMG random select please. Oh random select OMG. I want to fire flower flower I want flower item OMG. What's the matter let's go OMG enemy of enemy of mushroom mushroom mushroom mush mush ...(several times) oh mushroooooom. Oh yeah, jump jump oh. Item pleaes. Goal goal plus 3. Oh many many mushroom of world mushroom world OMG. Jump experience play oh yes get you. I have get you, get you get you flower lets' go. Oh I'm seven. 7 ranking OMG(screaming). Mushroom see, jump jump oh yes. Yeah. Oh no many many ファ〜〜〜（screaming in Japanese） Mushroom attack mushroom attack OMG Oh, Ah... (Game over). Ah I'm eh... 1,2,3 5 ranking. I'm very well. 
+| Item get uh  ... 1 minutes 良い eh... I’m 余裕. OK OK experience experience experience coin please coin coin coin coin coin coin １２ １３ １４ 15 16 17 eighteeeeen (screaming) １９ ２０. OMG item lost item OK yes very well OK OK coin item let's get item X-button OMG random select please. Oh random select OMG. I want to fire flower flower I want flower item OMG. What's the matter let's go OMG enemy of enemy of mushroom mushroom mushroom mush mush ...(several times) oh mushroooooom. Oh yeah, jump jump oh. Item pleaes. Goal goal plus 3. Oh many many mushroom of world mushroom world OMG. Jump experience play oh yes get you. I have get you, get you get you flower lets' go. Oh I'm seven. 7 ranking OMG(screaming). Mushroom see, jump jump oh yes. Yeah. Oh no many many ファ〜〜〜（screaming in Japanese） Mushroom attack mushroom attack OMG Oh, Ah... (Game over). Ah I'm eh... 1,2,3 5 ranking. I'm very well. 
 |JP|
 | |
 |EN|
 | |
 |Note|
+|良い(よい: yoi) means good. 余裕(よゆう: yoyuu) means There's plenty of time to spare in this context.|
 
 | Time stamp: xx:xx -> yy:yy |
 |---	|
@@ -251,6 +253,7 @@
 |EN|
 | |
 |Note|
+||
 
 | Time stamp: xx:xx -> yy:yy |
 |---	|
@@ -261,6 +264,7 @@
 |EN|
 | |
 |Note|
+||
 
 | Time stamp: xx:xx -> yy:yy |
 |---	|
@@ -271,6 +275,7 @@
 |EN|
 | |
 |Note|
+|| 
 
 | Time stamp: xx:xx -> yy:yy |
 |---	|
@@ -281,6 +286,7 @@
 |EN|
 | |
 |Note|
+||
 
 | Time stamp: xx:xx -> yy:yy |
 |---	|
@@ -291,6 +297,7 @@
 |EN|
 | |
 |Note|
+||
 
 | Time stamp: xx:xx -> yy:yy |
 |---	|
@@ -301,6 +308,7 @@
 |EN|
 | |
 |Note|
+||
 
 | Time stamp: xx:xx -> yy:yy |
 |---	|
@@ -311,3 +319,4 @@
 |EN|
 | |
 |Note|
+||
