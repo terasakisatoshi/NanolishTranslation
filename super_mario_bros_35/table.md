@@ -117,7 +117,7 @@
 |Note|
 | 粒々(tubu tubu: meaning some small particles)|
 
-| Time stamp: 10:31 -> 12:２０ |
+| Time stamp: 10:31 -> 12:20 |
 |---	|
 |Nanolish |
 | Oh no, little mario oh no 雑魚(zako) 雑魚(zako) OHG Uh(screaming) uh ... mushroom enemy many many mushroom many many mushroom many many mushroom　many many mushroom(screaming). Oh uh... は〜い mushroom uh I'm tired I'm tired turtle turtle attack many many mushroom OMG ahhhhhh oh yes I'm strong お〜い(saying hey in Japanese) mannnnny many jump （she failed) Oh yes rank up, item get, I'm 9 yes. I'm No.1 I wish No.1 |
@@ -200,7 +200,7 @@
 |EN|
 | |
 
-| Time stamp: 23:55 -> y:yy |
+| Time stamp: 23:55 -> 25:25 |
 |---	|
 |Nanolish |
 | Why ? Buy can't can't item? I can buy? I can buy ? why I can buy. OMG. Ahhhh(screaming) I want to item. Turtle ah item no no item turtle ? OMG What's the matter? many coin 64 OMG. Why? (Game over) why X-button under font? 30 coin ? 二十 20 coin. light under. 何でぇ.|
