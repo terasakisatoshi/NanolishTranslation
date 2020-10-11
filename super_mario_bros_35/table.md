@@ -211,16 +211,96 @@
 |Note|
 |二十(にじゅう: nizyuu) stands for twenty. 何でぇ(なんでぇ: nande-xe) means why. |
 
-| Time stamp: ２５:39 -> 28:10 |
+| Time stamp: ２５:39 -> 28:07 |
 |---	|
 |Nanolish |
-| Let's go next next let's go. Uh matching enemy very stronger. Uh... 12, 13 O'clock enemy in very easy. Very easy enemy. Now enemy very stronger why? Jump jump jump jump jump. Luna lesson game uh... 12 o'clock. Experience experience I have I have star let's go lets go please time please time please. Item fire. Have a fun, have a fun have a fun. Please have a fun I'll do my best. Oh this new stage. I can coin 8 9 11 11? 11 12 OMG(screming) (Game over). English experience playing 疎か OMG lol. OMG, OMG. Uh experience English OMG playing 疎か. OMG.
+| Let's go next next let's go. Uh matching enemy very stronger. Uh... 12, 13 O'clock enemy in very easy. Very easy enemy. Now enemy very stronger why? Jump jump jump jump jump. Luna lesson game uh... 12 o'clock. Experience experience I have I have star let's go lets go please time please time please. Item fire. Have a fun, have a fun have a fun. Please have a fun I'll do my best. Oh this new stage. I can coin 8, 9, 11, 11, 11 ? 11 12. Ahhh OMG(screming) (Game over). English experience playing 疎か OMG lol. OMG, OMG. Uh experience English OMG playing 疎か. OMG.
 |JP|
 | 英語で配信するとプレーが疎かになる. |
 |EN|
 | Streaming the game in English will negate the play. |
 | Note　|
 |疎か(おろそか:orosoka) means negate| 
+
+| Time stamp: 28:09 -> ２９:49 |
+|---	|
+|Nanolish |
+|Luna playing experience, playing experience this game oh yes. Mario mario let's go together be together be together ? with together. Oh yes, I jump I jump jump (several times LoL). Enemy jump jump jump attack attack bonus attack bonus, yes. OMG fire attack yes. Item please item please item get count up oh yeah bang bang (several times) jump jump I jump oh yes bang bang bang OMG, fire attack fire attack oh go straight enemy of many many mushroom and turtle mushroom many many mushroom I like mushroom. Mushroom uh ... delicious Delicious and yummy yummy. He he he. (proceed to the next stage)|
+|JP|
+| |
+|EN|
+| |
+|Note|
+
+| Time stamp: 29:30 -> 32:50 |
+|---	|
+|Nanolish |
+| Item get uh  ... 1 minutes 良い eh... I’m 余裕. OK OK experience experience experience coin please coin coin coin coin coin coin １２ １３ １４ 15 16 17 eighteeeeen (screaming) １９ ２０ OMG item lost item OK yes very well OK OK coin item let's get item X-button OMG random select please. Oh random select OMG. I want to fire flower flower I want flower item OMG. What's the matter let's go OMG enemy of enemy of mushroom mushroom mushroom mush mush ...(several times) oh mushroooooom. Oh yeah, jump jump oh. Item pleaes. Goal goal plus 3. Oh many many mushroom of world mushroom world OMG. Jump experience play oh yes get you. I have get you, get you get you flower lets' go. Oh I'm seven. 7 ranking OMG(screaming). Mushroom see, jump jump oh yes. Yeah. Oh no many many ファ〜〜〜（screaming in Japanese） Mushroom attack mushroom attack OMG Oh, Ah... (Game over). Ah I'm eh... 1,2,3 5 ranking. I'm very well. 
+|JP|
+| |
+|EN|
+| |
+|Note|
+
+| Time stamp: xx:xx -> yy:yy |
+|---	|
+|Nanolish |
+||
+|JP|
+| |
+|EN|
+| |
+|Note|
+
+| Time stamp: xx:xx -> yy:yy |
+|---	|
+|Nanolish |
+||
+|JP|
+| |
+|EN|
+| |
+|Note|
+
+| Time stamp: xx:xx -> yy:yy |
+|---	|
+|Nanolish |
+||
+|JP|
+| |
+|EN|
+| |
+|Note|
+
+| Time stamp: xx:xx -> yy:yy |
+|---	|
+|Nanolish |
+||
+|JP|
+| |
+|EN|
+| |
+|Note|
+
+| Time stamp: xx:xx -> yy:yy |
+|---	|
+|Nanolish |
+||
+|JP|
+| |
+|EN|
+| |
+|Note|
+
+| Time stamp: xx:xx -> yy:yy |
+|---	|
+|Nanolish |
+||
+|JP|
+| |
+|EN|
+| |
+|Note|
 
 | Time stamp: xx:xx -> yy:yy |
 |---	|
