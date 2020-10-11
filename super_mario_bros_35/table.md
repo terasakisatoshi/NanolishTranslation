@@ -404,10 +404,10 @@
 |Note|
 ||
 
-| Time stamp: ５2:１２ -> 44:01 |
+| Time stamp: ５2:１２ -> 53:38 |
 |---	|
 |Nanolish |
-| Let's go. |
+| Let's go. Fire, not fire ? File little ? Because, count not plus, not plus. Fire use? I'm jumping OOOOOMMMGGG!!(screaming)． Uh ... す，スターが出てこない. Count please, count please, count, I’m star. Star, yes. Let's go star, Ah not coin uh... enemy attack. Nah... I'm cry, I'm cry. OMG. (sob sob).|
 |JP|
 | |
 |EN|
